@@ -101,6 +101,15 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 10 more language builds: 中文 [gemini-nano-banana-2-1-api-cn](https://github.com/v5d5suw9e8/gemini-nano-banana-2-1-api-cn) · Deutsch [gemini-nano-banana-2-1-api-de](https://github.com/t8f-w3/gemini-nano-banana-2-1-api-de) · Español [gemini-nano-banana-2-1-api-es](https://github.com/mp1wvenc2s08n8/gemini-nano-banana-2-1-api-es) · Français [gemini-nano-banana-2-1-api-fr](https://github.com/tz0cbrs/gemini-nano-banana-2-1-api-fr) · Relay/gateway [gemini-nano-banana-2-1-api-gateway](https://github.com/fpe7tfhs07q/gemini-nano-banana-2-1-api-gateway) · Bahasa [gemini-nano-banana-2-1-api-id](https://github.com/a-kiecshv/gemini-nano-banana-2-1-api-id) · 日本語 [gemini-nano-banana-2-1-api-ja](https://github.com/uey78jd5/gemini-nano-banana-2-1-api-ja) · 한국어 [gemini-nano-banana-2-1-api-ko](https://github.com/xou-fm9md3t/gemini-nano-banana-2-1-api-ko) · Português [gemini-nano-banana-2-1-api-pt](https://github.com/n4bmw2s63acl/gemini-nano-banana-2-1-api-pt) · Русский [gemini-nano-banana-2-1-api-ru](https://github.com/ymtk2jpo85ct/gemini-nano-banana-2-1-api-ru)
+- **Topic hubs** — every build of this model, all languages: [gemini-nano-banana-2-1](https://github.com/topics/gemini-nano-banana-2-1) · [gemini-nano-banana-2-1-api](https://github.com/topics/gemini-nano-banana-2-1-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
